@@ -9,7 +9,7 @@ You may find some suggestions for personal homework at the [Suggested Projects](
 
 However, here are some general homework.
 
-## Meeting 1 - intro to clojure
+## Homework for meeting 1 - intro to clojure
 
 1. Install Gorilla REPL and play with it. See the [Software](../software/) section.
 

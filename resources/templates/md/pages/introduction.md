@@ -3,7 +3,7 @@
  :page-index 0
  :navbar? true}
 
-This website holds general information and course materials for the Clojure Data Science Course that  began in Tel Aviv towards the end of 2018.
+This website holds general information and course materials for the Clojure Data Science Course that began in Tel Aviv towards the end of 2018.
 
 The course is being organized by the [local meetup group](https://www.meetup.com/Clojure-Israel/). Several members have been contributing to the course.
 
