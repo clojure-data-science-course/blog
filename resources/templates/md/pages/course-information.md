@@ -35,13 +35,5 @@ For now, the meetings will be hosted by Madlan (Localize.city).
 The address is Yigal Alon St 57, Tel Aviv.
 
 ## What should I do to join the course?
-Please contact the [course organizer](https://www.meetup.com/Clojure-Israel/members/63580692/) in person.
-
-## Keep in touch
-
-- We use this [discussion mail group](https://groups.google.com/forum/#!forum/clojure-data-science-course-tlv).
-
-- For chat, we have this [stream](https://clojurians.zulipchat.com/#narrow/stream/152323-data-science-course-tlv) at the clojurians zulip chat. Before using it, please learn a little bit about Zulip's concepts: streams, topics, etc.
-
-(: When we communicate, let us be kind. :)
+Please contact the [course organizers](https://twitter.com/daslu_) in person.
 
