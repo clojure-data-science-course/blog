@@ -10,3 +10,4 @@ You may find some suggestions for personal homework at the [Suggested Projects](
 However, here are some general homework.
 
 - [Homework for the First Meeting](../../posts-output/2018-12-05-homework-for-the-first-meeting)
+

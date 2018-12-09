@@ -26,9 +26,9 @@ In about 6 meetings, people should gain some reasonable practical independence w
 
 - [Meeting B1](https://www.meetup.com/Clojure-Israel/events/256159018/) - Nov 28th 2018
 
-- Meeting A2 - Dec 16th 2018
+- [Meeting A2](https://www.meetup.com/Clojure-Israel/events/257088858/) - Dec 16th 2018
 
-- Meeting B2 - Dec 19th 2018
+- [Meeting B2](https://www.meetup.com/Clojure-Israel/events/257089002/) - Dec 19th 2018
 
 ## Place
 For now, the meetings will be hosted by Madlan (Localize.city).
