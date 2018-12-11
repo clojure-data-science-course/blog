@@ -8,7 +8,7 @@ Here are some suggestions for the software tools that you may use in the course.
 If you have any difficulty with the installation or usage -- then let us talk. It is better to solve this kind of problems at early stages.
 
 ## The minimum
-You will at least need Java (JDK version 8 or above) and Leiningen. You may use [the guide](https://practicalli.github.io/clojure/development-tools/) of Practical.li for installing them.
+You will at least need Git, Java (JDK version 8 or above) and Leiningen. You may use [the guide](https://practicalli.github.io/clojure/development-tools/) of Practical.li for installing them.
 
 ### Gorilla
 During the first talks, we will use [Gorilla REPL](http://gorilla-repl.org/), a notebook-like example originally written by [Jony Hudson](http://j-star.org/). It has its own visualization library and very interesting ideas regarding the creation of composable visual reports. It is rather common among Clojure data scientists.
