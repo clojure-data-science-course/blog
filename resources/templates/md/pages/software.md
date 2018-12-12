@@ -10,12 +10,14 @@ If you have any difficulty with the installation or usage -- then let us talk. I
 ## The minimum
 You will at least need Git, Java (JDK version 8 or above) and Leiningen. You may use [the guide](https://practicalli.github.io/clojure/development-tools/) of Practical.li for installing them.
 
-### Gorilla
+### Gorilla REPL
 During the first talks, we will use [Gorilla REPL](http://gorilla-repl.org/), a notebook-like example originally written by [Jony Hudson](http://j-star.org/). It has its own visualization library and very interesting ideas regarding the creation of composable visual reports. It is rather common among Clojure data scientists.
 
 We will also use it to share our work online.
 
-You may use Gorilla through [lein-gorilla](https://github.com/JonyEpsilon/lein-gorilla), which requires Leiningen. Another option is [gorilla-repl-docker](https://github.com/lcir/gorilla-repl-docker), which requires Docker.
+You may use Gorilla through [lein-gorilla](https://clojars.org/org.clojars.benfb/lein-gorilla), which requires Leiningen. Just add `[org.clojars.benfb/lein-gorilla "0.5.3"]` under your `:plugins` section at your `project.clj` file.
+
+Another option is [gorilla-repl-docker](https://github.com/lcir/gorilla-repl-docker), which requires Docker.
 
 See some more details under the [gorilla-repl stream](https://clojurians.zulipchat.com/#narrow/stream/173759-gorilla-repl) at Zulip.
 
