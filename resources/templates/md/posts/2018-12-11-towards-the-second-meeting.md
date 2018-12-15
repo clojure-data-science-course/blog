@@ -1,7 +1,7 @@
 {:title "Towards the Second Meeting"
  :layout :post
  :tags  []
- :toc true}
+ :toc false}
 
 Next week we will have the second meeting for the two groups. This time, it will be about **machine learning**.
 
