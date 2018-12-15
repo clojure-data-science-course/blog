@@ -25,8 +25,8 @@ On this project, you will study one of those libraries, and extend its documenta
 
 
 1. Choose a probabilistic programming library. We recommend one of the following:
-  - Anglican -- if you are interested in flexibility, language design and expressive power.
-  - Bayadera -- if you are interested in high performance and GPU computing (note that it is rather under-documented, and may be a bit challenging to study)
+  - **Anglican** -- if you are interested in flexibility, language design and expressive power.
+  - **Bayadera** -- if you are interested in high performance and GPU computing (note that it is rather under-documented, and may be a bit challenging to study)
 
 2. Choose a some example-oriented textbook about Bayesian Methods.
   - [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by [Cameron Davidson-Pilon](https://twitter.com/cmrn_dp) is one good candidate, as it is very code-oriented.
