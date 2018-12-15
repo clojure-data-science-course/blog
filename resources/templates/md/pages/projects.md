@@ -19,12 +19,12 @@ Team: **Dudu Peer**
 - Using [Specter](https://github.com/nathanmarz/specter) for work with nested data structures
 - More details soon
 
-
 ### A library for tabular data (so calle data-frames)
 - More details soon
 
 ### Creating visualization tools like R's htmlwidgets
-- More details soon
+Team: **Rohi Ulecia**
+- Researching possible ways to do data visualization in Clojure, inspired by R's htmlwidgets.
 
 ### Extending Gorilla-REPL
 Team: **Michael Katz**
