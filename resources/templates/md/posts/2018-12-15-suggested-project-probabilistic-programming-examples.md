@@ -43,7 +43,7 @@ On this project, you will study one of those libraries, and extend its documenta
 
 #### Books
 
-- [Draft](https://arxiv.org/pdf/1809.10756.pdf) of an upcoming book about probabilistic programming (by Jan-Willem van de Meent, Brooks Paige, Hongseok Yang and Frank Wood)
+- A [draft](https://arxiv.org/pdf/1809.10756.pdf) of an upcoming book about probabilistic programming (by Jan-Willem van de Meent, Brooks Paige, Hongseok Yang and Frank Wood)
 
 #### Talks
 
