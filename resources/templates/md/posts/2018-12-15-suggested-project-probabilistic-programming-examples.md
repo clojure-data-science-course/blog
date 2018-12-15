@@ -19,7 +19,7 @@ Clojure has several libraries for probabilistic programming. The main ones are [
 
 ### The project
 
-On this project, you will study one of those libraries, and extend its documentation by writing a series of examples.
+On this project, you will study one of those libraries and extend its documentation by writing a series of examples.
 
 #### Suggested tentative plan
 
