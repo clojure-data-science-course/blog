@@ -19,8 +19,10 @@ Team: **Dudu Peer**
 - Using [Specter](https://github.com/nathanmarz/specter) for work with nested data structures
 - More details soon
 
-### A library for tabular data (so calle data-frames)
-- More details soon
+### Improving a library for tabular data
+Team: **Amit Ramon** and **Daniel Slutsky**
+- Studying existing clojure libraries for tabular data structures (which are sometimes called data-frames in the data science context)
+- Planning to extend one of those libraries to allow for more expressive power and efficiency
 
 ### Creating visualization tools like R's htmlwidgets
 Team: **Rohi Ulecia**
