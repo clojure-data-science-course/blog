@@ -35,6 +35,9 @@ Team: **Michael Katz**
 
 ## Suggested Projects
 
-### [Probabilistic Programming Examples](../../posts-output/2018-12-15-suggested-project-probabilistic-programming-examples/)
+### Probabilistic programming
+#### [Probabilistic Programming Examples](../../posts-output/2018-12-15-suggested-project-probabilistic-programming-examples/)
+#### [Probabilistic Programming With Rainier and Scala](../../posts-output/2018-12-23-suggested-project-probabilistic-programming-with-rainier-and-scala/)
+
 
 ### [Deep Neural Networks](../../posts-output/2018-12-15-suggested-project-deep-neural-networks/)
