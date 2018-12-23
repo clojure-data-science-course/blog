@@ -12,19 +12,19 @@ For an overview of the various projects - please look [here](../../pages-output/
 
 [Probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming_language) is one of the promising and refreshing approaches to probabilistic modelling and to artificial intelligence nowadays. It will be one of the main themes in this course.
 
-[Rainer](https://github.com/stripe/rainier) is a new probabilistic programming library written by Stripe. It is written in Scala - a language that runs on the JVM, and thus it is conveniently accessible from Clojure.
+[Rainier](https://github.com/stripe/rainier) is a new probabilistic programming library written by Stripe. It is written in Scala - a language that runs on the JVM, and thus it is conveniently accessible from Clojure.
 
-However, Rainer is based on some ideas which are not so commonly used in Clojure. One of them is the so-called Probability Monad. It would be an interesting question, how to make such ideas accessible in clojure, in a way that woulb be both simple and useful.
+However, Rainier is based on some ideas which are not so commonly used in Clojure. One of them is the so-called Probability Monad. It would be an interesting question, how to make such ideas accessible in clojure, in a way that woulb be both simple and useful.
 
 ### The project
 
-The purpose of this clojure is to experiment with accessing Rainier from Clojure, and possibly create a certain grammer for doing it comfortably.
+The purpose of this project is to experiment with accessing Rainier from Clojure, and possibly create a certain grammer for doing it comfortably.
 
 #### Suggested tentative plan
 
 1. Read a little bit about Rainier.
-2. Learn how to access Scala in Clojure using the from-scala library.
-3. Translate some simple Rainier examples to Clojure.
+2. Learn how to access Scala in Clojure using the [from-scala](https://t6.github.io/from-scala/0.2.1/) library.
+3. Translate some small Rainier examples to Clojure.
 4. Consider possible ways to make the access more comfortable and idiomatic.
 5. Prepare a talk about it.
 6. Write a blog post.
@@ -36,10 +36,10 @@ The purpose of this clojure is to experiment with accessing Rainier from Clojure
 
 * [A recent technical talk by one of the authors, Avi Bryant](https://www.youtube.com/watch?v=I0n0WoAi5B4)
 
-* A couple of [blog](https://darrenjw.wordpress.com/2018/06/10/bayesian-hierarchical-modelling-with-rainier/) [posts](https://darrenjw.wordpress.com/2018/06/01/monadic-probabilistic-programming-in-scala-with-rainier/) by Darren Wilkinson.
+* A couple of [blog](https://darrenjw.wordpress.com/2018/06/10/bayesian-hierarchical-modelling-with-rainier/) [posts](https://darrenjw.wordpress.com/2018/06/01/monadic-probabilistic-programming-in-scala-with-rainier/) by Darren Wilkinson
 
-* An [explanation](https://www.chrisstucchio.com/blog/2016/probability_the_monad.html) of the Probability Monad by Chris Stucchio.
+* An [explanation](https://www.chrisstucchio.com/blog/2016/probability_the_monad.html) of the Probability Monad by Chris Stucchio
 
-* Monads in Cloju
-  * Using the [cats library](http://funcool.github.io/cats/latest/#monad).
-  * Using the [Fluokitten library](https://fluokitten.uncomplicate.org/articles/functors_applicatives_monads_in_pictures.html) (this should be read together with [this](https://web.archive.org/web/20180218211616/http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) illustrated Haskell-based introduction to category theory notions).
+* Monads in Clojure
+  * Using the [cats library](http://funcool.github.io/cats/latest/#monad)
+  * Using the [Fluokitten library](https://fluokitten.uncomplicate.org/articles/functors_applicatives_monads_in_pictures.html) (should be read together with [this](https://web.archive.org/web/20180218211616/http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) illustrated Haskell-based introduction to category theory notions)
