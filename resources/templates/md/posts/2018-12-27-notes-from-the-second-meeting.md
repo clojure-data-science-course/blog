@@ -19,7 +19,7 @@ These [notes](http://viewer.gorilla-repl.org/view.html?source=github&user=clojur
 ### [Meeting B2](https://www.meetup.com/Clojure-Israel/events/257089002/) - Dec 19th 2018
 This was the second meeting of **Group B** - data science for clojurians.
 
-It began with a broad introductory talk by Alik Peltinovitch about machine learning. You can find his presentation [here](https://drive.google.com/file/d/1irOk_LwF-BEk5G8p7Pe3DFGaC238Iqfv/view?usp=sharing).
+It began with an ✨enlightning✨ talk by Alik Peltinovitch about machine learning. You can find his presentation [here](https://drive.google.com/file/d/1irOk_LwF-BEk5G8p7Pe3DFGaC238Iqfv/view?usp=sharing).
 
 After some discussion, we continued with an overview of some of the workshop's projects.
 
