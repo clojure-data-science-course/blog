@@ -26,9 +26,9 @@ In about 6 meetings, people should gain some reasonable practical independence w
 
 - [Meeting B1](https://www.meetup.com/Clojure-Israel/events/256159018/) - Nov 28th 2018 - [notes](../../posts-output/2018-12-15-notes-from-the-first-meeting/)
 
-- [Meeting A2](https://www.meetup.com/Clojure-Israel/events/257088858/) - Dec 16th 2018 - [preparation](../../posts-output/2018-12-11-towards-the-second-meeting/)
+- [Meeting A2](https://www.meetup.com/Clojure-Israel/events/257088858/) - Dec 16th 2018 - [preparation](../../posts-output/2018-12-11-towards-the-second-meeting/) - [notes](../../posts-output/2018-12-27-notes-from-the-second-meeting/)
 
-- [Meeting B2](https://www.meetup.com/Clojure-Israel/events/257089002/) - Dec 19th 2018 - [preparation](../../posts-output/2018-12-11-towards-the-second-meeting/)
+- [Meeting B2](https://www.meetup.com/Clojure-Israel/events/257089002/) - Dec 19th 2018 - [preparation](../../posts-output/2018-12-11-towards-the-second-meeting/) - [notes](../../posts-output/2018-12-27-notes-from-the-second-meeting/)
 
 - [Special Meeting about Probabilistic Programming](https://www.meetup.com/Clojure-Israel/events/257198695/) - Jan 2nd 2019
 
