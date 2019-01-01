@@ -32,9 +32,9 @@ In about 6 meetings, people should gain some reasonable practical independence w
 
 - [Special Meeting about Probabilistic Programming](https://www.meetup.com/Clojure-Israel/events/257198695/) - Jan 2nd 2019
 
-- Meeting A3 - Jan 6th 2019
+- [Meeting A3](https://www.meetup.com/Clojure-Israel/events/257675935/) - Jan 6th 2019
 
-- Meeting B3 - Jan 9th 2019
+- [Meeting B3](https://www.meetup.com/Clojure-Israel/events/257675945/) - Jan 9th 2019
 
 ## Place
 For now, the meetings will be hosted by Madlan (Localize.city).
